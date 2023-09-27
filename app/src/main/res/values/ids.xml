@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="new_game" type="id">New Game</item>
+    <item name="settings" type="id">Settings</item>
+</resources>
